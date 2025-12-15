@@ -1,0 +1,4 @@
+#ifndef PERSON_H_INCLUDED
+#define PERSON_H_INCLUDED
+
+#endif //PERSON_H_INCLUDED
